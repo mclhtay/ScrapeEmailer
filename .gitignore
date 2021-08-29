@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+bin/
+lib/
+__pycache__/
+email_config.json
+scrape_items.json
+
