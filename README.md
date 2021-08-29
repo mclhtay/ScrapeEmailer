@@ -17,7 +17,7 @@ example format:
 
   "smtp_server": "string" 
   
-  "port": number,
+  "port": "number",
   
   "sender_email" : "string",
   
@@ -41,7 +41,7 @@ example format:
       "key_words": [      
         "string"
       ],      
-      "opp": boolean //whether or not should to send email if 0 item is found,      
+      "opp": "boolean //whether or not should to send email if 0 item is found",      
       "message": "string to send in email"      
     }
   ]
