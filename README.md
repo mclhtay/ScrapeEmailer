@@ -15,7 +15,7 @@ example format:
 ```json
 {
 
-  "smtp_server": "string" 
+  "smtp_server": "string",
   
   "port": "number",
   
